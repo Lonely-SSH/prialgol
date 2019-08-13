@@ -5,7 +5,7 @@ package com.clgg.leecode;
  */
 public class BitOperation {
     public static void main(String[] args) {
-        //位运算的技巧
+        //位运算的技巧1
 
         //1 、判断奇数
         System.out.println("=====判断奇数======");
